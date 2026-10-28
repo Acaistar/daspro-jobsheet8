@@ -10,7 +10,7 @@ public class Tugas228 {
             System.out.println("Nilai n harus minimal 3");
         } else {
             int totalAngka = 0;
-            System.out.println("\nTabel Perkalian" +n+ "x" +n+ ":");
+            System.out.println("\nTabel Perkalian " +n+ "x" +n+ ":");
             for (int i = 1; i <= n; i++) {
                 for (int j = 1; j <= n; j++) {
                     int hasil = i * j;
